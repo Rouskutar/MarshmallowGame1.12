@@ -22,7 +22,7 @@ public class MarshmallowGame extends Application {
 
 
     // PELIN TILA !!!
-    // testi
+    // testing
 
     private GameState state = GameState.EMPTY;
     private final GameStats gameStats = new GameStats();
